@@ -1,0 +1,37 @@
+TODO:
+cantidad de vendedores x categoria 
+comparar cantidad de vendedores x categoria y cuanto se vende x categoria (posible demanda no satisfecha)
+ordenes: Ferchas, comportamiento de horarios con respecto a categoria y monto a comprar
+tiempo de delivery, relacion tiempo de delivery e ingresos
+
+***
+escribir funcion que remueva outliers a una Serie
+***
+tipos de productos:
+    distribucion de precios x categoria OK y locacion de vendedores
+    categoria mas comercializada OK
+    categoria con mejores y peores revoews
+    categoria con mas ingresos OK
+    categoria mas cara (en promedio) OK
+    categoria por localizacion OK
+    costo de envio vs caracteristicas del producto
+    
+    
+comportamiento de compra:
+    que dia de la semana se compra mas que categoria OK
+    que categoria x zona OK
+    que categoria x horario 
+    metedo de pago sewgun locacion, categoria y precio OK
+    cuanto consume cada zona x producto y x categoria OK
+    timeline de compras y ventas OK
+    
+    
+analisis de locacion:
+    distancia entre vend y compr
+    network de states OK
+    exp e imp de venderdores y compradores
+    geolocalizacion de ambos OK
+    ingresos por localizacion
+    reviews por localizacion
+    trafico entre ciudades x categoria    
+    
